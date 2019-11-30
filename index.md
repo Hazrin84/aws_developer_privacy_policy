@@ -1,6 +1,6 @@
 ## AWS Certified Developer Privacy Policy
 Privacy Policy
-AWS Certified Developer built the AWS Certified Developer app as a Commercial app. This SERVICE is provided by AWS Certified Developer and is intended for use as is.
+This SERVICE is provided by AWS Certified Developer and is intended for use as is.
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at AWS Certified Developer unless otherwise defined in this Privacy Policy.
 
@@ -12,7 +12,7 @@ This app does not collect any data from you and store it externally. The only da
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device.
 
 #### Links to Other Sites
 
