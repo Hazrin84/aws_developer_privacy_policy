@@ -4,7 +4,7 @@ AWS Certified Developer built the AWS Certified Developer app as a Commercial ap
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at AWS Certified Developer unless otherwise defined in this Privacy Policy.
 
-Information Collection and Use
+#Header1 Information Collection and Use
 
 This app does not collect any data from you and store it externally. The only data kept is stored internally on your iOS device and contains information related to your performance on the app, e.g. previous scores, topics taken, number of attempts made. No personally identifiable data is kept internally or externally.
 
