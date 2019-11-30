@@ -4,17 +4,6 @@ You can use the [editor on GitHub](https://github.com/Hazrin84/aws_developer_pri
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
 Privacy Policy
 AWS Certified Developer built the AWS Certified Developer app as a Commercial app. This SERVICE is provided by AWS Certified Developer and is intended for use as is.
 
